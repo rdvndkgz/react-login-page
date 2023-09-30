@@ -1,0 +1,12 @@
+.buton {font-family: serif; 
+font-size: 14px; outline: none;
+width: max-content;
+background-color: gray;
+color: white;
+box-sizing: border-box;
+padding: 20px;
+cursor: pointer;
+transition: all .5s ease;
+}
+
+.buton :hover {background-color: blue;}
